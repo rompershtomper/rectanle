@@ -1,4 +1,4 @@
-# Calculate_square
+# Calculate_area
 
 This is a learning task.
 
