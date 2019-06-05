@@ -2,7 +2,7 @@
 
 This is a learning task.
 
-Wroten by me:
+Written by me:
  [RectanglesTask.cs](https://github.com/rompershtomper/Calculate_area/blob/master/RectanglesTask.cs)
     
 The methods takes as arguments the coordinates of two rectangle:
